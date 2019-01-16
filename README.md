@@ -1,4 +1,4 @@
-# ui-challange
+ ui-challange
 UI code challenge.
 
 ## The task
@@ -6,7 +6,7 @@ The challenge is to achieve a responsive design as per the screens present in th
 
 This is a helper repo to get you started with.
 Prerequisite
-[Node JS](https://nodejs.org/en/). 
+[Node JS](https://nodejs.org/en/).
 Steps:
 ```
 git+https://github.com/mcmakler/ui-challange.git
